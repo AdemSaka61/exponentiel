@@ -1,0 +1,2 @@
+# exponentiel
+üslü sayılar
